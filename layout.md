@@ -1,6 +1,5 @@
 abstract.html
 sectionIntroduction_.html
-tih3s37jjeg.tex
 sectionTheory__subse.html
 figures/0D__Dropbox_Granty__UNICORN__Zadania_Zadanie_3_Modele_urzadzen_Pictures_Heat_exchanger_Ebsilon
 The_model_of_heat.html
