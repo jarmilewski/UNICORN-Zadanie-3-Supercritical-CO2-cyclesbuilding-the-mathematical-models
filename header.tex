@@ -1,0 +1,62 @@
+
+\batchmode
+\makeatletter
+\def\input@path{{\string"D:/Dropbox/Granty/[UNICORN]/Zadania/Zadanie 3 Modele urzadzen/\string"}}
+
+\makeatother
+\iflatexml
+% \documentclass[12pt,english,sort&compress]{scrartcl} % Not (yet) supported by LaTeXML.
+\fi
+
+\renewcommand{\familydefault}[][]{\sfdefault}
+
+% \usepackage[OT4]{fontenc} % Not (yet) supported by LaTeXML.
+
+\usepackage[utf8]{inputenc}
+
+\usepackage{geometry}
+
+\geometry{verbose,tmargin=0.1\paperwidth,bmargin=0.1\paperwidth,lmargin=0.1\paperwidth,rmargin=0.1\paperwidth}
+% \usepackage{babel} % Not (yet) supported by LaTeXML.
+
+\usepackage{booktabs}
+
+\usepackage{graphicx}
+
+\usepackage[numbers]{natbib}
+
+\usepackage[unicode=true,pdfusetitle,
+ bookmarks=true,bookmarksnumbered=false,bookmarksopen=false,
+ breaklinks=false,pdfborder={0 0 0},pdfborderstyle={},backref=false,colorlinks=false]{hyperref}
+\makeatletter
+\providecommand{\tabularnewline}[][]{\\}
+% \usepackage{textgreek} % Not (yet) supported by LaTeXML.
+
+% \usepackage[OT4]{fontenc} % Not (yet) supported by LaTeXML.
+% \usepackage{tabulary} % Not (yet) supported by LaTeXML.
+
+\let\ORIGtabular\tabular
+\let\ORIGendtabular\endtabular
+\makeatletter
+\def\tabulary{%
+ \let\TY@final\ORIGtabular
+ \let\endTY@final\ORIGendtabular
+ \TY@tabular
+}
+\let\ORIGtabulary\tabulary
+% First macro on next line not (yet) supported by LaTeXML: 
+% \renewcommand*{\tabulary}{%
+% \def\tabular{%
+%   \let\endtabular\ORIGendtabular
+%   \ORIGtabular
+% }%
+% \ORIGtabulary
+%}
+\renewcommand{\tabular}[][]{%
+ \tabulary{0.9\linewidth}%
+}
+
+\renewcommand{\endtabular}[][]{\endtabulary}
+
+% \usepackage{ragged2e} % Not (yet) supported by LaTeXML.
+\makeatother
