@@ -1,7 +1,7 @@
 ---
 version: 2
 multicolumn: false
-web-width: 500
+web-width: 200
 align: center
 float: h!
 grid:
@@ -16,3 +16,5 @@ grid:
     to:
     - 1
     - 1
+    url: "/users/227193/articles/308389/master/file/figures/11D__Dropbox_Granty__UNICORN__Zadania_Zadanie_3_Modele_urzadzen_Pictures_Turbine/11D__Dropbox_Granty__UNICORN__Zadania_Zadanie_3_Modele_urzadzen_Pictures_Turbine.png"
+    folder_url: "/users/227193/articles/308389/master/folder/figures/11D__Dropbox_Granty__UNICORN__Zadania_Zadanie_3_Modele_urzadzen_Pictures_Turbine"
