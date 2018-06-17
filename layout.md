@@ -4,6 +4,8 @@ figures/Bae different layouts
 uv2fk2t1vpg.html
 im5213eaf2.html
 sectionTheory__subse.html
+9pb8ip8d7jg.tex
+pqm40udhua.html
 figures/0D__Dropbox_Granty__UNICORN__Zadania_Zadanie_3_Modele_urzadzen_Pictures_Heat_exchanger_Ebsilon
 The_model_of_heat.html
 figures/1D__Dropbox_Granty__UNICORN__Zadania_Zadanie_3_Modele_urzadzen_Pictures_Expander_Ebsilon
