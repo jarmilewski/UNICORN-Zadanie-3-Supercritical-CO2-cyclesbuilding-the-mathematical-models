@@ -41,7 +41,6 @@ figures/HX
 7903taq102o.html
 oct4471dlj8.tex
 kivlnv0ptmg.html
-figures/CO21
 7s6pkmpqulo.html
 figures/HX-property
 0k4c67fi9eo.html
