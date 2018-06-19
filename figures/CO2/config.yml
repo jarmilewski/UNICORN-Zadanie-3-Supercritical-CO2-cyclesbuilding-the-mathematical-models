@@ -19,3 +19,4 @@ grid:
     url: "/users/227193/articles/308389/master/file/figures/CO2/CO2.xlsx"
     folder_url: "/users/227193/articles/308389/master/folder/figures/CO2"
     treatFirstLineAsHeader: true
+    fontSize: large
