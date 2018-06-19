@@ -8,7 +8,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/CO21/CO21.xlsx
+  - path: figures/CO21/figures_CO21_CO21.xlsx
     type: table
     from:
     - 1
@@ -16,5 +16,5 @@ grid:
     to:
     - 1
     - 1
-    url: "/users/227193/articles/308389/master/file/figures/CO21/CO21.xlsx"
     folder_url: "/users/227193/articles/308389/master/folder/figures/CO21"
+    url: "/users/227193/articles/308389/master/file/figures/CO21/figures_CO21_CO21.xlsx"
