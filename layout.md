@@ -41,7 +41,6 @@ figures/HX
 7903taq102o.html
 kivlnv0ptmg.html
 figures/CO21
-figures/CO2
 7s6pkmpqulo.html
 figures/HX-property
 0k4c67fi9eo.html
