@@ -37,4 +37,6 @@ Data_used_for_valida1.html
 0ap9rtkg5rg.tex
 figures/11D__Dropbox_Granty__UNICORN__Zadania_Zadanie_3_Modele_urzadzen_Pictures_Turbine
 untitled.html
+figures/HX
+7903taq102o.html
 sectionConclusions__.html
