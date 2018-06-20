@@ -8,7 +8,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/HX-property/HX-property.png
+  - path: figures/HX-property/HX.png
     type: static
     from:
     - 1
@@ -16,5 +16,5 @@ grid:
     to:
     - 1
     - 1
-    url: "/users/227193/articles/308389/master/file/figures/HX-property/HX-property.png"
     folder_url: "/users/227193/articles/308389/master/folder/figures/HX-property"
+    url: "/users/227193/articles/308389/master/file/figures/HX-property/HX.png"
