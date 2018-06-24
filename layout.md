@@ -39,6 +39,8 @@ figures/11D__Dropbox_Granty__UNICORN__Zadania_Zadanie_3_Modele_urzadzen_Pictures
 untitled.html
 figures/HX
 7903taq102o.html
+ut0ujodljuo.tex
+rd140vc0fmg.html
 oct4471dlj8.tex
 kivlnv0ptmg.html
 7s6pkmpqulo.html
