@@ -41,7 +41,6 @@ figures/HX
 7903taq102o.html
 ut0ujodljuo.tex
 rd140vc0fmg.html
-oct4471dlj8.tex
 kivlnv0ptmg.html
 7s6pkmpqulo.html
 lprtrnoc1vg.tex
