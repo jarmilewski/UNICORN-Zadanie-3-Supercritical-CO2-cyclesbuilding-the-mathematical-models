@@ -50,4 +50,3 @@ figures/HX-property
 st1jge7lb1.html
 de611s7aim.tex
 vi46uuh9ljg.html
-sectionConclusions__.html
